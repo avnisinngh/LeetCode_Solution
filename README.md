@@ -13,6 +13,7 @@
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avnisinngh/Leetcode_sol/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avnisinngh/Leetcode_sol/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/avnisinngh/Leetcode_sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/avnisinngh/Leetcode_sol/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0189-rotate-array) |
 | [1236-n-th-tribonacci-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1236-n-th-tribonacci-number) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3373-maximum-prime-difference](https://github.com/avnisinngh/Leetcode_sol/tree/master/3373-maximum-prime-difference) |
 # Memoization
 |  |
@@ -115,3 +117,11 @@
 |  |
 | ------- |
 | [1666-make-the-string-great](https://github.com/avnisinngh/Leetcode_sol/tree/master/1666-make-the-string-great) |
+# Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
+# Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
