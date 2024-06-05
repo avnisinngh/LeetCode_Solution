@@ -28,6 +28,7 @@
 | [1580-shuffle-the-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1603-running-sum-of-1d-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avnisinngh/Leetcode_sol/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1635-number-of-good-pairs](https://github.com/avnisinngh/Leetcode_sol/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/avnisinngh/Leetcode_sol/tree/master/1791-richest-customer-wealth) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avnisinngh/Leetcode_sol/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avnisinngh/Leetcode_sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -60,6 +61,7 @@
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/avnisinngh/Leetcode_sol/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/avnisinngh/Leetcode_sol/tree/master/1635-number-of-good-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/avnisinngh/Leetcode_sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/avnisinngh/Leetcode_sol/tree/master/2634-minimum-common-value) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/avnisinngh/Leetcode_sol/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -170,6 +172,7 @@
 | [0189-rotate-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0189-rotate-array) |
 | [1086-divisor-game](https://github.com/avnisinngh/Leetcode_sol/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1236-n-th-tribonacci-number) |
+| [1635-number-of-good-pairs](https://github.com/avnisinngh/Leetcode_sol/tree/master/1635-number-of-good-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2571-find-the-pivot-integer](https://github.com/avnisinngh/Leetcode_sol/tree/master/2571-find-the-pivot-integer) |
 | [3055-maximum-odd-binary-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/3055-maximum-odd-binary-number) |
@@ -217,6 +220,7 @@
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/avnisinngh/Leetcode_sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1635-number-of-good-pairs](https://github.com/avnisinngh/Leetcode_sol/tree/master/1635-number-of-good-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/avnisinngh/Leetcode_sol/tree/master/3242-count-elements-with-maximum-frequency) |
 # Brainteaser
 |  |
