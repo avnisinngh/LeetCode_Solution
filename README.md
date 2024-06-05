@@ -30,6 +30,7 @@
 # String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/avnisinngh/Leetcode_sol/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/avnisinngh/Leetcode_sol/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/avnisinngh/Leetcode_sol/tree/master/0409-longest-palindrome) |
