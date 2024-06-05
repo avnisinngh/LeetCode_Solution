@@ -31,6 +31,7 @@
 | [2696-the-number-of-beautiful-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2714-left-and-right-sum-differences](https://github.com/avnisinngh/Leetcode_sol/tree/master/2714-left-and-right-sum-differences) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/avnisinngh/Leetcode_sol/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/avnisinngh/Leetcode_sol/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/avnisinngh/Leetcode_sol/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/avnisinngh/Leetcode_sol/tree/master/3373-maximum-prime-difference) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/avnisinngh/Leetcode_sol/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -51,6 +52,7 @@
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/avnisinngh/Leetcode_sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/avnisinngh/Leetcode_sol/tree/master/2634-minimum-common-value) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/avnisinngh/Leetcode_sol/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/avnisinngh/Leetcode_sol/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/avnisinngh/Leetcode_sol/tree/master/3446-find-the-number-of-good-pairs-i) |
 # String
 |  |
@@ -188,6 +190,7 @@
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/avnisinngh/Leetcode_sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/avnisinngh/Leetcode_sol/tree/master/3242-count-elements-with-maximum-frequency) |
 # Brainteaser
 |  |
 | ------- |
