@@ -109,6 +109,7 @@
 | [0525-contiguous-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0525-contiguous-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0966-binary-subarrays-with-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/avnisinngh/Leetcode_sol/tree/master/1321-get-equal-substrings-within-budget) |
+| [2571-find-the-pivot-integer](https://github.com/avnisinngh/Leetcode_sol/tree/master/2571-find-the-pivot-integer) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [1086-divisor-game](https://github.com/avnisinngh/Leetcode_sol/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1236-n-th-tribonacci-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2571-find-the-pivot-integer](https://github.com/avnisinngh/Leetcode_sol/tree/master/2571-find-the-pivot-integer) |
 | [3373-maximum-prime-difference](https://github.com/avnisinngh/Leetcode_sol/tree/master/3373-maximum-prime-difference) |
 # Memoization
 |  |
