@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/avnisinngh/Leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/0078-subsets) |
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avnisinngh/Leetcode_sol/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -65,6 +66,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/avnisinngh/Leetcode_sol/tree/master/0053-maximum-subarray) |
 | [1236-n-th-tribonacci-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1236-n-th-tribonacci-number) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/2696-the-number-of-beautiful-subsets) |
 # Sorting
@@ -85,3 +87,7 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1236-n-th-tribonacci-number) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/avnisinngh/Leetcode_sol/tree/master/0053-maximum-subarray) |
