@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/0078-subsets) |
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avnisinngh/Leetcode_sol/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/0078-subsets) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/2696-the-number-of-beautiful-subsets) |
 # Greedy
 |  |
@@ -64,3 +66,7 @@
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avnisinngh/Leetcode_sol/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/2696-the-number-of-beautiful-subsets) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/0078-subsets) |
