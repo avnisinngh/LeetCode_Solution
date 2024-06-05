@@ -17,6 +17,7 @@
 | [0525-contiguous-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/avnisinngh/Leetcode_sol/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0966-binary-subarrays-with-sum) |
+| [0985-bag-of-tokens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/avnisinngh/Leetcode_sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/avnisinngh/Leetcode_sol/tree/master/0409-longest-palindrome) |
+| [0985-bag-of-tokens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0985-bag-of-tokens) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/avnisinngh/Leetcode_sol/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3055-maximum-odd-binary-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/3055-maximum-odd-binary-number) |
 # Two Pointers
@@ -93,6 +95,7 @@
 | [0189-rotate-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0344-reverse-string) |
+| [0985-bag-of-tokens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avnisinngh/Leetcode_sol/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2128-reverse-prefix-of-word](https://github.com/avnisinngh/Leetcode_sol/tree/master/2128-reverse-prefix-of-word) |
@@ -136,6 +139,7 @@
 |  |
 | ------- |
 | [0807-custom-sort-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0807-custom-sort-string) |
+| [0985-bag-of-tokens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avnisinngh/Leetcode_sol/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
