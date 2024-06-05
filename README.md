@@ -7,11 +7,13 @@
 | ------- |
 | [0039-combination-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0039-combination-sum) |
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/avnisinngh/Leetcode_sol/tree/master/3446-find-the-number-of-good-pairs-i) |
 # Hash Table
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/avnisinngh/Leetcode_sol/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/avnisinngh/Leetcode_sol/tree/master/3446-find-the-number-of-good-pairs-i) |
 # String
 |  |
 | ------- |
