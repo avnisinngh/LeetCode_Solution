@@ -31,6 +31,7 @@
 | [1635-number-of-good-pairs](https://github.com/avnisinngh/Leetcode_sol/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/avnisinngh/Leetcode_sol/tree/master/1791-richest-customer-wealth) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avnisinngh/Leetcode_sol/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2048-build-array-from-permutation](https://github.com/avnisinngh/Leetcode_sol/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avnisinngh/Leetcode_sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/avnisinngh/Leetcode_sol/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -201,6 +202,7 @@
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/avnisinngh/Leetcode_sol/tree/master/1505-create-target-array-in-the-given-order) |
+| [2048-build-array-from-permutation](https://github.com/avnisinngh/Leetcode_sol/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avnisinngh/Leetcode_sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
 # Combinatorics
