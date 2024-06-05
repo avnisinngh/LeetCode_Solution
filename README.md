@@ -17,6 +17,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/avnisinngh/Leetcode_sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/avnisinngh/Leetcode_sol/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/avnisinngh/Leetcode_sol/tree/master/1505-create-target-array-in-the-given-order) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avnisinngh/Leetcode_sol/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avnisinngh/Leetcode_sol/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -38,6 +39,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/avnisinngh/Leetcode_sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/avnisinngh/Leetcode_sol/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/avnisinngh/Leetcode_sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/avnisinngh/Leetcode_sol/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/avnisinngh/Leetcode_sol/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -107,6 +109,7 @@
 # Sorting
 |  |
 | ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avnisinngh/Leetcode_sol/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/avnisinngh/Leetcode_sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -164,6 +167,7 @@
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/avnisinngh/Leetcode_sol/tree/master/1034-subarrays-with-k-different-integers) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 # Brainteaser
 |  |
 | ------- |
