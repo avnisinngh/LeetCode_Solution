@@ -11,6 +11,7 @@
 | [0078-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/avnisinngh/Leetcode_sol/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/avnisinngh/Leetcode_sol/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0525-contiguous-array) |
@@ -99,6 +100,7 @@
 # Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/avnisinngh/Leetcode_sol/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0525-contiguous-array) |
 | [1321-get-equal-substrings-within-budget](https://github.com/avnisinngh/Leetcode_sol/tree/master/1321-get-equal-substrings-within-budget) |
 # Dynamic Programming
