@@ -7,6 +7,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0039-combination-sum) |
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/avnisinngh/Leetcode_sol/tree/master/3446-find-the-number-of-good-pairs-i) |
 # Hash Table
 |  |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0039-combination-sum) |
+| [2696-the-number-of-beautiful-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/2696-the-number-of-beautiful-subsets) |
 # Greedy
 |  |
 | ------- |
@@ -50,3 +52,11 @@
 |  |
 | ------- |
 | [1321-get-equal-substrings-within-budget](https://github.com/avnisinngh/Leetcode_sol/tree/master/1321-get-equal-substrings-within-budget) |
+# Dynamic Programming
+|  |
+| ------- |
+| [2696-the-number-of-beautiful-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/2696-the-number-of-beautiful-subsets) |
+# Sorting
+|  |
+| ------- |
+| [2696-the-number-of-beautiful-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/2696-the-number-of-beautiful-subsets) |
