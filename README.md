@@ -65,6 +65,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [1236-n-th-tribonacci-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1236-n-th-tribonacci-number) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/2696-the-number-of-beautiful-subsets) |
 # Sorting
 |  |
@@ -76,3 +77,11 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/0078-subsets) |
+# Math
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1236-n-th-tribonacci-number) |
+# Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1236-n-th-tribonacci-number) |
