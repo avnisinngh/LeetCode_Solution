@@ -10,6 +10,7 @@
 | [0078-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/avnisinngh/Leetcode_sol/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0189-rotate-array) |
+| [1034-subarrays-with-k-different-integers](https://github.com/avnisinngh/Leetcode_sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avnisinngh/Leetcode_sol/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avnisinngh/Leetcode_sol/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/avnisinngh/Leetcode_sol/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/avnisinngh/Leetcode_sol/tree/master/0409-longest-palindrome) |
+| [1034-subarrays-with-k-different-integers](https://github.com/avnisinngh/Leetcode_sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/avnisinngh/Leetcode_sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/avnisinngh/Leetcode_sol/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -72,6 +74,7 @@
 # Sliding Window
 |  |
 | ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/avnisinngh/Leetcode_sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [1321-get-equal-substrings-within-budget](https://github.com/avnisinngh/Leetcode_sol/tree/master/1321-get-equal-substrings-within-budget) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/avnisinngh/Leetcode_sol/tree/master/2527-count-subarrays-with-fixed-bounds) |
 # Prefix Sum
@@ -138,3 +141,7 @@
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/avnisinngh/Leetcode_sol/tree/master/2527-count-subarrays-with-fixed-bounds) |
+# Counting
+|  |
+| ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/avnisinngh/Leetcode_sol/tree/master/1034-subarrays-with-k-different-integers) |
