@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/avnisinngh/Leetcode_sol/tree/master/0713-subarray-product-less-than-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/avnisinngh/Leetcode_sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
@@ -36,6 +37,7 @@
 | [0205-isomorphic-strings](https://github.com/avnisinngh/Leetcode_sol/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/avnisinngh/Leetcode_sol/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0525-contiguous-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/avnisinngh/Leetcode_sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/avnisinngh/Leetcode_sol/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -97,6 +99,7 @@
 # Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0525-contiguous-array) |
 | [1321-get-equal-substrings-within-budget](https://github.com/avnisinngh/Leetcode_sol/tree/master/1321-get-equal-substrings-within-budget) |
 # Dynamic Programming
 |  |
