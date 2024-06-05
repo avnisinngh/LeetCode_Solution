@@ -17,6 +17,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/avnisinngh/Leetcode_sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/avnisinngh/Leetcode_sol/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1505-create-target-array-in-the-given-order](https://github.com/avnisinngh/Leetcode_sol/tree/master/1505-create-target-array-in-the-given-order) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avnisinngh/Leetcode_sol/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avnisinngh/Leetcode_sol/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -145,6 +146,7 @@
 # Simulation
 |  |
 | ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/avnisinngh/Leetcode_sol/tree/master/1505-create-target-array-in-the-given-order) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
 # Combinatorics
 |  |
