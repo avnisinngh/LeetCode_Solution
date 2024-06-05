@@ -18,6 +18,7 @@
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/avnisinngh/Leetcode_sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/avnisinngh/Leetcode_sol/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/avnisinngh/Leetcode_sol/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/avnisinngh/Leetcode_sol/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/avnisinngh/Leetcode_sol/tree/master/3373-maximum-prime-difference) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/avnisinngh/Leetcode_sol/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -29,6 +30,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/avnisinngh/Leetcode_sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/avnisinngh/Leetcode_sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/avnisinngh/Leetcode_sol/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/avnisinngh/Leetcode_sol/tree/master/3446-find-the-number-of-good-pairs-i) |
 # String
 |  |
@@ -77,6 +79,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/avnisinngh/Leetcode_sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [1321-get-equal-substrings-within-budget](https://github.com/avnisinngh/Leetcode_sol/tree/master/1321-get-equal-substrings-within-budget) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/avnisinngh/Leetcode_sol/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/avnisinngh/Leetcode_sol/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 # Prefix Sum
 |  |
 | ------- |
