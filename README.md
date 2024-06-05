@@ -39,6 +39,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/avnisinngh/Leetcode_sol/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/avnisinngh/Leetcode_sol/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/avnisinngh/Leetcode_sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3194-find-words-containing-character](https://github.com/avnisinngh/Leetcode_sol/tree/master/3194-find-words-containing-character) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/avnisinngh/Leetcode_sol/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/avnisinngh/Leetcode_sol/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/avnisinngh/Leetcode_sol/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -79,6 +80,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/avnisinngh/Leetcode_sol/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/avnisinngh/Leetcode_sol/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3055-maximum-odd-binary-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/3055-maximum-odd-binary-number) |
+| [3194-find-words-containing-character](https://github.com/avnisinngh/Leetcode_sol/tree/master/3194-find-words-containing-character) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/avnisinngh/Leetcode_sol/tree/master/3451-string-compression-iii) |
