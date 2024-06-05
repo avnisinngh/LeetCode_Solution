@@ -29,6 +29,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/avnisinngh/Leetcode_sol/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2634-minimum-common-value](https://github.com/avnisinngh/Leetcode_sol/tree/master/2634-minimum-common-value) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2714-left-and-right-sum-differences](https://github.com/avnisinngh/Leetcode_sol/tree/master/2714-left-and-right-sum-differences) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/avnisinngh/Leetcode_sol/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/avnisinngh/Leetcode_sol/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/avnisinngh/Leetcode_sol/tree/master/3373-maximum-prime-difference) |
@@ -114,6 +115,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0966-binary-subarrays-with-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/avnisinngh/Leetcode_sol/tree/master/1321-get-equal-substrings-within-budget) |
 | [2571-find-the-pivot-integer](https://github.com/avnisinngh/Leetcode_sol/tree/master/2571-find-the-pivot-integer) |
+| [2714-left-and-right-sum-differences](https://github.com/avnisinngh/Leetcode_sol/tree/master/2714-left-and-right-sum-differences) |
 # Dynamic Programming
 |  |
 | ------- |
