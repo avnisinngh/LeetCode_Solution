@@ -30,6 +30,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/avnisinngh/Leetcode_sol/tree/master/1321-get-equal-substrings-within-budget) |
 | [2128-reverse-prefix-of-word](https://github.com/avnisinngh/Leetcode_sol/tree/master/2128-reverse-prefix-of-word) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/avnisinngh/Leetcode_sol/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/avnisinngh/Leetcode_sol/tree/master/3451-string-compression-iii) |
 # Backtracking
@@ -97,3 +98,7 @@
 |  |
 | ------- |
 | [3373-maximum-prime-difference](https://github.com/avnisinngh/Leetcode_sol/tree/master/3373-maximum-prime-difference) |
+# Enumeration
+|  |
+| ------- |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
