@@ -36,6 +36,7 @@
 | [2634-minimum-common-value](https://github.com/avnisinngh/Leetcode_sol/tree/master/2634-minimum-common-value) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2714-left-and-right-sum-differences](https://github.com/avnisinngh/Leetcode_sol/tree/master/2714-left-and-right-sum-differences) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/avnisinngh/Leetcode_sol/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/avnisinngh/Leetcode_sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/avnisinngh/Leetcode_sol/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/avnisinngh/Leetcode_sol/tree/master/3242-count-elements-with-maximum-frequency) |
