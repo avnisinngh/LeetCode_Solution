@@ -25,6 +25,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/avnisinngh/Leetcode_sol/tree/master/1505-create-target-array-in-the-given-order) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avnisinngh/Leetcode_sol/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avnisinngh/Leetcode_sol/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/avnisinngh/Leetcode_sol/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/avnisinngh/Leetcode_sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/avnisinngh/Leetcode_sol/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -68,6 +69,7 @@
 | [1666-make-the-string-great](https://github.com/avnisinngh/Leetcode_sol/tree/master/1666-make-the-string-great) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avnisinngh/Leetcode_sol/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2128-reverse-prefix-of-word](https://github.com/avnisinngh/Leetcode_sol/tree/master/2128-reverse-prefix-of-word) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/avnisinngh/Leetcode_sol/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/avnisinngh/Leetcode_sol/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3055-maximum-odd-binary-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/3055-maximum-odd-binary-number) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
