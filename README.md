@@ -32,6 +32,7 @@
 | [0409-longest-palindrome](https://github.com/avnisinngh/Leetcode_sol/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
 | [1321-get-equal-substrings-within-budget](https://github.com/avnisinngh/Leetcode_sol/tree/master/1321-get-equal-substrings-within-budget) |
+| [1666-make-the-string-great](https://github.com/avnisinngh/Leetcode_sol/tree/master/1666-make-the-string-great) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avnisinngh/Leetcode_sol/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2128-reverse-prefix-of-word](https://github.com/avnisinngh/Leetcode_sol/tree/master/2128-reverse-prefix-of-word) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/avnisinngh/Leetcode_sol/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -110,3 +111,7 @@
 |  |
 | ------- |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
+# Stack
+|  |
+| ------- |
+| [1666-make-the-string-great](https://github.com/avnisinngh/Leetcode_sol/tree/master/1666-make-the-string-great) |
