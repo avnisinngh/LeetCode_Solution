@@ -1,6 +1,6 @@
 # Leetcode_sol
 **I've been working on solving various challenges on LeetCode, and I'm pleased to share my solutions with you all.**
-Language: JAVA
+- Language: JAVA
 ***LINK TO DETAILED EXPLANATION OF SOLUTION***
 https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/edit?usp=sharing
 
