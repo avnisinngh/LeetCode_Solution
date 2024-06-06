@@ -4,6 +4,7 @@ Language: JAVA
 ***LINK TO DETAILED EXPLANATION OF SOLUTION***
 https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/edit?usp=sharing
 
+
 # Array
 |  |
 | ------- |
@@ -19,6 +20,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/avnisinngh/Leetcode_sol/tree/master/0713-subarray-product-less-than-k) |
+| [0876-hand-of-straights](https://github.com/avnisinngh/Leetcode_sol/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0966-binary-subarrays-with-sum) |
 | [0985-bag-of-tokens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1019-squares-of-a-sorted-array) |
@@ -61,6 +63,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0525-contiguous-array) |
 | [0807-custom-sort-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0807-custom-sort-string) |
+| [0876-hand-of-straights](https://github.com/avnisinngh/Leetcode_sol/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/avnisinngh/Leetcode_sol/tree/master/1034-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
@@ -104,6 +107,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/avnisinngh/Leetcode_sol/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/avnisinngh/Leetcode_sol/tree/master/0876-hand-of-straights) |
 | [0985-bag-of-tokens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0985-bag-of-tokens) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/avnisinngh/Leetcode_sol/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3055-maximum-odd-binary-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/3055-maximum-odd-binary-number) |
@@ -160,6 +164,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0807-custom-sort-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0807-custom-sort-string) |
+| [0876-hand-of-straights](https://github.com/avnisinngh/Leetcode_sol/tree/master/0876-hand-of-straights) |
 | [0985-bag-of-tokens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
