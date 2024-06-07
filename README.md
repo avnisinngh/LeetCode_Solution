@@ -19,6 +19,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0287-find-the-duplicate-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0525-contiguous-array) |
+| [0648-replace-words](https://github.com/avnisinngh/Leetcode_sol/tree/master/0648-replace-words) |
 | [0713-subarray-product-less-than-k](https://github.com/avnisinngh/Leetcode_sol/tree/master/0713-subarray-product-less-than-k) |
 | [0876-hand-of-straights](https://github.com/avnisinngh/Leetcode_sol/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0966-binary-subarrays-with-sum) |
@@ -62,6 +63,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0409-longest-palindrome](https://github.com/avnisinngh/Leetcode_sol/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0525-contiguous-array) |
+| [0648-replace-words](https://github.com/avnisinngh/Leetcode_sol/tree/master/0648-replace-words) |
 | [0807-custom-sort-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/avnisinngh/Leetcode_sol/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0966-binary-subarrays-with-sum) |
@@ -82,6 +84,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0205-isomorphic-strings](https://github.com/avnisinngh/Leetcode_sol/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/avnisinngh/Leetcode_sol/tree/master/0409-longest-palindrome) |
+| [0648-replace-words](https://github.com/avnisinngh/Leetcode_sol/tree/master/0648-replace-words) |
 | [0807-custom-sort-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0807-custom-sort-string) |
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
 | [1321-get-equal-substrings-within-budget](https://github.com/avnisinngh/Leetcode_sol/tree/master/1321-get-equal-substrings-within-budget) |
@@ -247,3 +250,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/avnisinngh/Leetcode_sol/tree/master/1791-richest-customer-wealth) |
+# Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/avnisinngh/Leetcode_sol/tree/master/0648-replace-words) |
