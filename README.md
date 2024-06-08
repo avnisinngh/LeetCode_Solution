@@ -18,6 +18,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0238-product-of-array-except-self](https://github.com/avnisinngh/Leetcode_sol/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0525-contiguous-array) |
 | [0648-replace-words](https://github.com/avnisinngh/Leetcode_sol/tree/master/0648-replace-words) |
 | [0713-subarray-product-less-than-k](https://github.com/avnisinngh/Leetcode_sol/tree/master/0713-subarray-product-less-than-k) |
@@ -62,6 +63,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0205-isomorphic-strings](https://github.com/avnisinngh/Leetcode_sol/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/avnisinngh/Leetcode_sol/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0525-contiguous-array) |
 | [0648-replace-words](https://github.com/avnisinngh/Leetcode_sol/tree/master/0648-replace-words) |
 | [0807-custom-sort-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0807-custom-sort-string) |
@@ -149,6 +151,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/avnisinngh/Leetcode_sol/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0525-contiguous-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0966-binary-subarrays-with-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/avnisinngh/Leetcode_sol/tree/master/1321-get-equal-substrings-within-budget) |
@@ -184,6 +187,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0189-rotate-array) |
+| [0523-continuous-subarray-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0523-continuous-subarray-sum) |
 | [1086-divisor-game](https://github.com/avnisinngh/Leetcode_sol/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/avnisinngh/Leetcode_sol/tree/master/1635-number-of-good-pairs) |
