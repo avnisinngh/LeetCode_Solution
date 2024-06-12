@@ -12,6 +12,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0040-combination-sum-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/avnisinngh/Leetcode_sol/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/avnisinngh/Leetcode_sol/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/avnisinngh/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/avnisinngh/Leetcode_sol/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0189-rotate-array) |
@@ -124,6 +125,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/avnisinngh/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0344-reverse-string) |
@@ -175,6 +177,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/avnisinngh/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0807-custom-sort-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/avnisinngh/Leetcode_sol/tree/master/0876-hand-of-straights) |
 | [0985-bag-of-tokens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0985-bag-of-tokens) |
