@@ -45,6 +45,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [2048-build-array-from-permutation](https://github.com/avnisinngh/Leetcode_sol/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avnisinngh/Leetcode_sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avnisinngh/Leetcode_sol/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/avnisinngh/Leetcode_sol/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/avnisinngh/Leetcode_sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -120,6 +121,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0409-longest-palindrome](https://github.com/avnisinngh/Leetcode_sol/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/avnisinngh/Leetcode_sol/tree/master/0876-hand-of-straights) |
 | [0985-bag-of-tokens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0985-bag-of-tokens) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avnisinngh/Leetcode_sol/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/avnisinngh/Leetcode_sol/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3055-maximum-odd-binary-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/3055-maximum-odd-binary-number) |
 # Two Pointers
@@ -186,6 +188,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1217-relative-sort-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avnisinngh/Leetcode_sol/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avnisinngh/Leetcode_sol/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/avnisinngh/Leetcode_sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/avnisinngh/Leetcode_sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
