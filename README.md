@@ -25,6 +25,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0713-subarray-product-less-than-k](https://github.com/avnisinngh/Leetcode_sol/tree/master/0713-subarray-product-less-than-k) |
 | [0876-hand-of-straights](https://github.com/avnisinngh/Leetcode_sol/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0966-binary-subarrays-with-sum) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/avnisinngh/Leetcode_sol/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0985-bag-of-tokens) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/avnisinngh/Leetcode_sol/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1019-squares-of-a-sorted-array) |
@@ -120,6 +121,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | ------- |
 | [0409-longest-palindrome](https://github.com/avnisinngh/Leetcode_sol/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/avnisinngh/Leetcode_sol/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/avnisinngh/Leetcode_sol/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0985-bag-of-tokens) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avnisinngh/Leetcode_sol/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/avnisinngh/Leetcode_sol/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -182,6 +184,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0075-sort-colors](https://github.com/avnisinngh/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0807-custom-sort-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/avnisinngh/Leetcode_sol/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/avnisinngh/Leetcode_sol/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/avnisinngh/Leetcode_sol/tree/master/1137-height-checker) |
@@ -275,5 +278,6 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/avnisinngh/Leetcode_sol/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/avnisinngh/Leetcode_sol/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1217-relative-sort-array) |
