@@ -19,6 +19,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0189-rotate-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/avnisinngh/Leetcode_sol/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
+| [0330-patching-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0330-patching-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0502-ipo](https://github.com/avnisinngh/Leetcode_sol/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0523-continuous-subarray-sum) |
@@ -122,6 +123,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/avnisinngh/Leetcode_sol/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/avnisinngh/Leetcode_sol/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/avnisinngh/Leetcode_sol/tree/master/0876-hand-of-straights) |
