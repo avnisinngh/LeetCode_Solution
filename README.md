@@ -139,6 +139,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0189-rotate-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/avnisinngh/Leetcode_sol/tree/master/0633-sum-of-square-numbers) |
 | [0985-bag-of-tokens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avnisinngh/Leetcode_sol/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -151,6 +152,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/avnisinngh/Leetcode_sol/tree/master/0633-sum-of-square-numbers) |
 | [1321-get-equal-substrings-within-budget](https://github.com/avnisinngh/Leetcode_sol/tree/master/1321-get-equal-substrings-within-budget) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avnisinngh/Leetcode_sol/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2634-minimum-common-value](https://github.com/avnisinngh/Leetcode_sol/tree/master/2634-minimum-common-value) |
@@ -213,6 +215,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | ------- |
 | [0189-rotate-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/avnisinngh/Leetcode_sol/tree/master/0633-sum-of-square-numbers) |
 | [1086-divisor-game](https://github.com/avnisinngh/Leetcode_sol/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1236-n-th-tribonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/avnisinngh/Leetcode_sol/tree/master/1635-number-of-good-pairs) |
