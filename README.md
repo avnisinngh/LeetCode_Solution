@@ -46,6 +46,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/avnisinngh/Leetcode_sol/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avnisinngh/Leetcode_sol/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/avnisinngh/Leetcode_sol/tree/master/1635-number-of-good-pairs) |
+| [1675-magnetic-force-between-two-balls](https://github.com/avnisinngh/Leetcode_sol/tree/master/1675-magnetic-force-between-two-balls) |
 | [1791-richest-customer-wealth](https://github.com/avnisinngh/Leetcode_sol/tree/master/1791-richest-customer-wealth) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/avnisinngh/Leetcode_sol/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/avnisinngh/Leetcode_sol/tree/master/2048-build-array-from-permutation) |
@@ -161,6 +162,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1321-get-equal-substrings-within-budget](https://github.com/avnisinngh/Leetcode_sol/tree/master/1321-get-equal-substrings-within-budget) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/avnisinngh/Leetcode_sol/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avnisinngh/Leetcode_sol/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1675-magnetic-force-between-two-balls](https://github.com/avnisinngh/Leetcode_sol/tree/master/1675-magnetic-force-between-two-balls) |
 | [2634-minimum-common-value](https://github.com/avnisinngh/Leetcode_sol/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/avnisinngh/Leetcode_sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Sliding Window
@@ -207,6 +209,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1217-relative-sort-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/avnisinngh/Leetcode_sol/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1675-magnetic-force-between-two-balls](https://github.com/avnisinngh/Leetcode_sol/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/avnisinngh/Leetcode_sol/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/avnisinngh/Leetcode_sol/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/2696-the-number-of-beautiful-subsets) |
