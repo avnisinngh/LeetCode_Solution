@@ -11,6 +11,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0039-combination-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/avnisinngh/Leetcode_sol/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/avnisinngh/Leetcode_sol/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/avnisinngh/Leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/avnisinngh/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/0078-subsets) |
@@ -121,6 +122,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | ------- |
 | [0039-combination-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/avnisinngh/Leetcode_sol/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0090-subsets-ii) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/2696-the-number-of-beautiful-subsets) |
