@@ -1,24 +1,27 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
-        boolean [] map = new boolean [nums.length];
-        List<Integer> ds = new ArrayList<>();
-        recper(nums,ans,map, ds);
+        recrPerm(nums, 0 , ans);
         return ans;
     }
-    public void recper(int [] nums,List<List<Integer>>ans , boolean[] map, List<Integer> ds) {
-        if(ds.size() == nums.length) {
+    public void recrPerm(int[] nums, int index, List<List<Integer>> ans) {
+        if(index == nums.length){
+            List<Integer> ds = new ArrayList<>();
+            for(int i = 0; i < nums.length; i++) {
+                ds.add(nums[i]);
+            }
             ans.add(new ArrayList<>(ds));
             return;
         }
-        for(int i = 0;i<nums.length;i++) {
-            if(!map[i]){
-                map[i] = true;
-                ds.add(nums[i]);
-                recper(nums,ans,map,ds);
-                ds.remove(ds.size()-1);
-                map[i] = false;
-            }
+        for(int i = index; i < nums.length; i++) {
+            swap(i, index, nums);
+            recrPerm(nums, index + 1, ans);
+            swap(i, index, nums);
         }
+    }
+    public void swap(int i, int index, int[] nums) {
+        int t = nums[index];
+        nums[index] = nums[i];
+        nums[i] = t;
     }
 }
