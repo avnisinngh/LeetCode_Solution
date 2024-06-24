@@ -35,6 +35,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1016-subarray-sums-divisible-by-k](https://github.com/avnisinngh/Leetcode_sol/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/avnisinngh/Leetcode_sol/tree/master/1034-subarrays-with-k-different-integers) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/avnisinngh/Leetcode_sol/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/avnisinngh/Leetcode_sol/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/avnisinngh/Leetcode_sol/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/avnisinngh/Leetcode_sol/tree/master/1138-grumpy-bookstore-owner) |
@@ -175,6 +176,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0713-subarray-product-less-than-k](https://github.com/avnisinngh/Leetcode_sol/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/avnisinngh/Leetcode_sol/tree/master/1034-subarrays-with-k-different-integers) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/avnisinngh/Leetcode_sol/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/avnisinngh/Leetcode_sol/tree/master/1138-grumpy-bookstore-owner) |
 | [1321-get-equal-substrings-within-budget](https://github.com/avnisinngh/Leetcode_sol/tree/master/1321-get-equal-substrings-within-budget) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/avnisinngh/Leetcode_sol/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -188,6 +190,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0525-contiguous-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0525-contiguous-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/avnisinngh/Leetcode_sol/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/avnisinngh/Leetcode_sol/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/avnisinngh/Leetcode_sol/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1321-get-equal-substrings-within-budget](https://github.com/avnisinngh/Leetcode_sol/tree/master/1321-get-equal-substrings-within-budget) |
 | [1603-running-sum-of-1d-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1603-running-sum-of-1d-array) |
 | [2571-find-the-pivot-integer](https://github.com/avnisinngh/Leetcode_sol/tree/master/2571-find-the-pivot-integer) |
@@ -226,6 +229,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0078-subsets](https://github.com/avnisinngh/Leetcode_sol/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/avnisinngh/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/avnisinngh/Leetcode_sol/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Math
 |  |
 | ------- |
@@ -274,6 +278,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 # Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/avnisinngh/Leetcode_sol/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/avnisinngh/Leetcode_sol/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/avnisinngh/Leetcode_sol/tree/master/2527-count-subarrays-with-fixed-bounds) |
 # Monotonic Queue
