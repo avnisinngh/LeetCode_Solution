@@ -359,6 +359,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 ## Graph
 |  |
 | ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/avnisinngh/Leetcode_sol/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/avnisinngh/Leetcode_sol/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
@@ -376,4 +377,16 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0051-n-queens) |
+## Depth-First Search
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/avnisinngh/Leetcode_sol/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/avnisinngh/Leetcode_sol/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/avnisinngh/Leetcode_sol/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
