@@ -360,6 +360,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/avnisinngh/Leetcode_sol/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/avnisinngh/Leetcode_sol/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/avnisinngh/Leetcode_sol/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
@@ -399,4 +400,8 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/avnisinngh/Leetcode_sol/tree/master/0037-sudoku-solver) |
+## Union Find
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/avnisinngh/Leetcode_sol/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 <!---LeetCode Topics End-->
