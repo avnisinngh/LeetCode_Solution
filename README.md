@@ -375,6 +375,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | ------- |
 | [0037-sudoku-solver](https://github.com/avnisinngh/Leetcode_sol/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0051-n-queens) |
+| [1293-three-consecutive-odds](https://github.com/avnisinngh/Leetcode_sol/tree/master/1293-three-consecutive-odds) |
 ## Backtracking
 |  |
 | ------- |
