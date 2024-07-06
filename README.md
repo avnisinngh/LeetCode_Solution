@@ -386,6 +386,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | ------- |
 | [0037-sudoku-solver](https://github.com/avnisinngh/Leetcode_sol/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/avnisinngh/Leetcode_sol/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -433,4 +434,12 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/avnisinngh/Leetcode_sol/tree/master/2645-pass-the-pillow) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/avnisinngh/Leetcode_sol/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/avnisinngh/Leetcode_sol/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
