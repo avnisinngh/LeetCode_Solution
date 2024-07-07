@@ -428,11 +428,13 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/avnisinngh/Leetcode_sol/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/avnisinngh/Leetcode_sol/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/avnisinngh/Leetcode_sol/tree/master/2645-pass-the-pillow) |
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/avnisinngh/Leetcode_sol/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/avnisinngh/Leetcode_sol/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
