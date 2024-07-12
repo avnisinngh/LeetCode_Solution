@@ -439,6 +439,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/avnisinngh/Leetcode_sol/tree/master/0060-permutation-sequence) |
 | [1642-water-bottles](https://github.com/avnisinngh/Leetcode_sol/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnisinngh/Leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/avnisinngh/Leetcode_sol/tree/master/2645-pass-the-pillow) |
@@ -454,6 +455,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/avnisinngh/Leetcode_sol/tree/master/0060-permutation-sequence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnisinngh/Leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
