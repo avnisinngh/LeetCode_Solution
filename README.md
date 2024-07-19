@@ -383,6 +383,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0051-n-queens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0051-n-queens) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/avnisinngh/Leetcode_sol/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/avnisinngh/Leetcode_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/avnisinngh/Leetcode_sol/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/avnisinngh/Leetcode_sol/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/avnisinngh/Leetcode_sol/tree/master/1803-average-waiting-time) |
@@ -417,6 +418,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/avnisinngh/Leetcode_sol/tree/master/0037-sudoku-solver) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/avnisinngh/Leetcode_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Union Find
 |  |
 | ------- |
