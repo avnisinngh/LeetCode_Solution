@@ -355,6 +355,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/avnisinngh/Leetcode_sol/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/avnisinngh/Leetcode_sol/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/avnisinngh/Leetcode_sol/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/avnisinngh/Leetcode_sol/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -386,6 +387,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0037-sudoku-solver](https://github.com/avnisinngh/Leetcode_sol/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0051-n-queens) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0890-lemonade-change](https://github.com/avnisinngh/Leetcode_sol/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/avnisinngh/Leetcode_sol/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/avnisinngh/Leetcode_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
