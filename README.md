@@ -394,6 +394,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/avnisinngh/Leetcode_sol/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/avnisinngh/Leetcode_sol/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/avnisinngh/Leetcode_sol/tree/master/1720-crawler-log-folder) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/avnisinngh/Leetcode_sol/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/avnisinngh/Leetcode_sol/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnisinngh/Leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avnisinngh/Leetcode_sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -425,6 +426,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0037-sudoku-solver](https://github.com/avnisinngh/Leetcode_sol/tree/master/0037-sudoku-solver) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/avnisinngh/Leetcode_sol/tree/master/0726-number-of-atoms) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/avnisinngh/Leetcode_sol/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -475,6 +477,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0726-number-of-atoms](https://github.com/avnisinngh/Leetcode_sol/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avnisinngh/Leetcode_sol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/avnisinngh/Leetcode_sol/tree/master/1720-crawler-log-folder) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/avnisinngh/Leetcode_sol/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/avnisinngh/Leetcode_sol/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/avnisinngh/Leetcode_sol/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/avnisinngh/Leetcode_sol/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -527,8 +530,13 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0948-sort-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/avnisinngh/Leetcode_sol/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avnisinngh/Leetcode_sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/avnisinngh/Leetcode_sol/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
