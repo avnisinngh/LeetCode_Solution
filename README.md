@@ -450,6 +450,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/avnisinngh/Leetcode_sol/tree/master/0002-add-two-numbers) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/avnisinngh/Leetcode_sol/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/avnisinngh/Leetcode_sol/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -466,6 +467,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/avnisinngh/Leetcode_sol/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/avnisinngh/Leetcode_sol/tree/master/0060-permutation-sequence) |
 | [1642-water-bottles](https://github.com/avnisinngh/Leetcode_sol/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnisinngh/Leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -488,6 +490,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/avnisinngh/Leetcode_sol/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/avnisinngh/Leetcode_sol/tree/master/0060-permutation-sequence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnisinngh/Leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
