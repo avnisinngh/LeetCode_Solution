@@ -451,6 +451,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/avnisinngh/Leetcode_sol/tree/master/0002-add-two-numbers) |
+| [0328-odd-even-linked-list](https://github.com/avnisinngh/Leetcode_sol/tree/master/0328-odd-even-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/avnisinngh/Leetcode_sol/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/avnisinngh/Leetcode_sol/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
