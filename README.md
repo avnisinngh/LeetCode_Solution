@@ -451,6 +451,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/avnisinngh/Leetcode_sol/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/avnisinngh/Leetcode_sol/tree/master/0021-merge-two-sorted-lists) |
 | [0328-odd-even-linked-list](https://github.com/avnisinngh/Leetcode_sol/tree/master/0328-odd-even-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/avnisinngh/Leetcode_sol/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/avnisinngh/Leetcode_sol/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -492,6 +493,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/avnisinngh/Leetcode_sol/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/avnisinngh/Leetcode_sol/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/avnisinngh/Leetcode_sol/tree/master/0060-permutation-sequence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnisinngh/Leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
