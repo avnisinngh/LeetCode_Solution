@@ -424,6 +424,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/avnisinngh/Leetcode_sol/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/avnisinngh/Leetcode_sol/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/avnisinngh/Leetcode_sol/tree/master/0726-number-of-atoms) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/avnisinngh/Leetcode_sol/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -441,6 +442,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/avnisinngh/Leetcode_sol/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -453,6 +455,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0002-add-two-numbers](https://github.com/avnisinngh/Leetcode_sol/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/avnisinngh/Leetcode_sol/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/avnisinngh/Leetcode_sol/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/avnisinngh/Leetcode_sol/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/avnisinngh/Leetcode_sol/tree/master/0328-odd-even-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/avnisinngh/Leetcode_sol/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/avnisinngh/Leetcode_sol/tree/master/2299-merge-nodes-in-between-zeros) |
