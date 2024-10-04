@@ -1,0 +1,10 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1?page=1&category=Linked%20List&difficulty=Basic&sortBy=difficulty">Insert in Middle of Linked List</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given the head of a Singly Linked List and a value x. The task is to insert the key in the middle of the linked list.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples :</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>LinkedList = 1-&gt;2-&gt;4 , x = 3
+<strong>Output: </strong>1-&gt;2-&gt;3-&gt;4<strong>
+Explanation: <br></strong><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700665/Web/Other/blobid0_1720610262.png" width="400" height="200"><br>The new element is inserted after the current middle element in the linked list.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>LinkedList = 10-&gt;20-&gt;40-&gt;50 , x = 30
+<strong>Output: </strong>10-&gt;20-&gt;30-&gt;40-&gt;50<strong>
+Explanation: <br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700665/Web/Other/blobid1_1720610287.png" width="400" height="200"><br></strong>The new element is inserted after the current middle element in the linked list and Hence, the output is 10-&gt;20-&gt;30-&gt;40-&gt;50.</span></pre>
+<p><span style="font-size: 18px;"><strong>Expected Time Complexity</strong>: O(n)<br><strong>Expected Auxilliary Space</strong>: O(1)</span></p>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>0 &lt;= number of nodes &lt;= 10<sup>5<br></sup>0 &lt;= node-&gt;data , x &lt;= 10<sup>3</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Linked List</code>&nbsp;<code>Data Structures</code>&nbsp;
