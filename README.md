@@ -428,6 +428,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0037-sudoku-solver](https://github.com/avnisinngh/Leetcode_sol/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/avnisinngh/Leetcode_sol/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/avnisinngh/Leetcode_sol/tree/master/0726-number-of-atoms) |
 | [1256-rank-transform-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/avnisinngh/Leetcode_sol/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -447,6 +448,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | ------- |
 | [0141-linked-list-cycle](https://github.com/avnisinngh/Leetcode_sol/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -486,6 +488,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/avnisinngh/Leetcode_sol/tree/master/0131-palindrome-partitioning) |
+| [0567-permutation-in-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/avnisinngh/Leetcode_sol/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avnisinngh/Leetcode_sol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/avnisinngh/Leetcode_sol/tree/master/1720-crawler-log-folder) |
@@ -554,4 +557,8 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/avnisinngh/Leetcode_sol/tree/master/1786-count-the-number-of-consistent-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
