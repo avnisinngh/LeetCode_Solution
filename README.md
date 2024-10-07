@@ -477,6 +477,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/avnisinngh/Leetcode_sol/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/avnisinngh/Leetcode_sol/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/avnisinngh/Leetcode_sol/tree/master/2645-pass-the-pillow) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/avnisinngh/Leetcode_sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/avnisinngh/Leetcode_sol/tree/master/2846-robot-collisions) |
 ## Math
 |  |
@@ -499,6 +500,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1923-sentence-similarity-iii](https://github.com/avnisinngh/Leetcode_sol/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/avnisinngh/Leetcode_sol/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/avnisinngh/Leetcode_sol/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/avnisinngh/Leetcode_sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -522,6 +524,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avnisinngh/Leetcode_sol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/avnisinngh/Leetcode_sol/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/avnisinngh/Leetcode_sol/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/avnisinngh/Leetcode_sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/avnisinngh/Leetcode_sol/tree/master/2846-robot-collisions) |
 ## Tree
 |  |
