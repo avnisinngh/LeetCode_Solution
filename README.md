@@ -378,6 +378,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1256-rank-transform-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1256-rank-transform-of-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/avnisinngh/Leetcode_sol/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/avnisinngh/Leetcode_sol/tree/master/2379-maximum-total-importance-of-roads) |
+| [2586-longest-square-streak-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2586-longest-square-streak-in-an-array) |
 | [2846-robot-collisions](https://github.com/avnisinngh/Leetcode_sol/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
@@ -406,6 +407,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avnisinngh/Leetcode_sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/avnisinngh/Leetcode_sol/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2472-build-a-matrix-with-conditions](https://github.com/avnisinngh/Leetcode_sol/tree/master/2472-build-a-matrix-with-conditions) |
+| [2586-longest-square-streak-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2586-longest-square-streak-in-an-array) |
 | [2846-robot-collisions](https://github.com/avnisinngh/Leetcode_sol/tree/master/2846-robot-collisions) |
 ## Backtracking
 |  |
@@ -438,6 +440,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1256-rank-transform-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/avnisinngh/Leetcode_sol/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/avnisinngh/Leetcode_sol/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2586-longest-square-streak-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2586-longest-square-streak-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -463,6 +466,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avnisinngh/Leetcode_sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2586-longest-square-streak-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2586-longest-square-streak-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -515,6 +519,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/avnisinngh/Leetcode_sol/tree/master/0131-palindrome-partitioning) |
+| [2586-longest-square-streak-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2586-longest-square-streak-in-an-array) |
 ## Recursion
 |  |
 | ------- |
