@@ -408,6 +408,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/avnisinngh/Leetcode_sol/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2472-build-a-matrix-with-conditions](https://github.com/avnisinngh/Leetcode_sol/tree/master/2472-build-a-matrix-with-conditions) |
 | [2586-longest-square-streak-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/avnisinngh/Leetcode_sol/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/avnisinngh/Leetcode_sol/tree/master/2846-robot-collisions) |
 ## Backtracking
 |  |
@@ -448,6 +449,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1496-lucky-numbers-in-a-matrix](https://github.com/avnisinngh/Leetcode_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/avnisinngh/Leetcode_sol/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/avnisinngh/Leetcode_sol/tree/master/2472-build-a-matrix-with-conditions) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/avnisinngh/Leetcode_sol/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -520,6 +522,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/avnisinngh/Leetcode_sol/tree/master/0131-palindrome-partitioning) |
 | [2586-longest-square-streak-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/avnisinngh/Leetcode_sol/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
