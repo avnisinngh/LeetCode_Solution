@@ -510,6 +510,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0567-permutation-in-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/avnisinngh/Leetcode_sol/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avnisinngh/Leetcode_sol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1720-crawler-log-folder](https://github.com/avnisinngh/Leetcode_sol/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/avnisinngh/Leetcode_sol/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/avnisinngh/Leetcode_sol/tree/master/1818-maximum-score-from-removing-substrings) |
