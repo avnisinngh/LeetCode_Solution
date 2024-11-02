@@ -518,6 +518,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/avnisinngh/Leetcode_sol/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/avnisinngh/Leetcode_sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/avnisinngh/Leetcode_sol/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2580-circular-sentence](https://github.com/avnisinngh/Leetcode_sol/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/avnisinngh/Leetcode_sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/avnisinngh/Leetcode_sol/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
