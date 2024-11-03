@@ -509,6 +509,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0131-palindrome-partitioning](https://github.com/avnisinngh/Leetcode_sol/tree/master/0131-palindrome-partitioning) |
 | [0567-permutation-in-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/avnisinngh/Leetcode_sol/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0812-rotate-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avnisinngh/Leetcode_sol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1720-crawler-log-folder](https://github.com/avnisinngh/Leetcode_sol/tree/master/1720-crawler-log-folder) |
@@ -592,4 +593,8 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0567-permutation-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
