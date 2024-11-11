@@ -361,6 +361,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1818-maximum-score-from-removing-substrings](https://github.com/avnisinngh/Leetcode_sol/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/avnisinngh/Leetcode_sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/avnisinngh/Leetcode_sol/tree/master/2379-maximum-total-importance-of-roads) |
+| [2716-prime-subtraction-operation](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/avnisinngh/Leetcode_sol/tree/master/3195-separate-black-and-white-balls) |
 ## Graph
 |  |
@@ -412,6 +413,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [2472-build-a-matrix-with-conditions](https://github.com/avnisinngh/Leetcode_sol/tree/master/2472-build-a-matrix-with-conditions) |
 | [2554-minimum-total-distance-traveled](https://github.com/avnisinngh/Leetcode_sol/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/avnisinngh/Leetcode_sol/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/avnisinngh/Leetcode_sol/tree/master/2846-robot-collisions) |
 ## Backtracking
@@ -474,6 +476,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0350-intersection-of-two-arrays-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avnisinngh/Leetcode_sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2716-prime-subtraction-operation) |
 ## Linked List
 |  |
 | ------- |
@@ -506,6 +509,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1642-water-bottles](https://github.com/avnisinngh/Leetcode_sol/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnisinngh/Leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/avnisinngh/Leetcode_sol/tree/master/2645-pass-the-pillow) |
+| [2716-prime-subtraction-operation](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2716-prime-subtraction-operation) |
 ## String
 |  |
 | ------- |
@@ -607,4 +611,8 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0812-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
