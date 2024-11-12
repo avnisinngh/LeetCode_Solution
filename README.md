@@ -378,6 +378,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0948-sort-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1256-rank-transform-of-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/avnisinngh/Leetcode_sol/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2379-maximum-total-importance-of-roads](https://github.com/avnisinngh/Leetcode_sol/tree/master/2379-maximum-total-importance-of-roads) |
 | [2554-minimum-total-distance-traveled](https://github.com/avnisinngh/Leetcode_sol/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2586-longest-square-streak-in-an-array) |
@@ -409,6 +410,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnisinngh/Leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avnisinngh/Leetcode_sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/avnisinngh/Leetcode_sol/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2472-build-a-matrix-with-conditions](https://github.com/avnisinngh/Leetcode_sol/tree/master/2472-build-a-matrix-with-conditions) |
 | [2554-minimum-total-distance-traveled](https://github.com/avnisinngh/Leetcode_sol/tree/master/2554-minimum-total-distance-traveled) |
@@ -475,6 +477,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avnisinngh/Leetcode_sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2716-prime-subtraction-operation) |
 ## Linked List
