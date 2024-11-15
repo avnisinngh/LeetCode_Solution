@@ -402,6 +402,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1293-three-consecutive-odds](https://github.com/avnisinngh/Leetcode_sol/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/avnisinngh/Leetcode_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/avnisinngh/Leetcode_sol/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/avnisinngh/Leetcode_sol/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/avnisinngh/Leetcode_sol/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/avnisinngh/Leetcode_sol/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -472,6 +473,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0141-linked-list-cycle](https://github.com/avnisinngh/Leetcode_sol/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0567-permutation-in-string) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/avnisinngh/Leetcode_sol/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/avnisinngh/Leetcode_sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -480,6 +482,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avnisinngh/Leetcode_sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -565,6 +568,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | ------- |
 | [0726-number-of-atoms](https://github.com/avnisinngh/Leetcode_sol/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avnisinngh/Leetcode_sol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/avnisinngh/Leetcode_sol/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/avnisinngh/Leetcode_sol/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/avnisinngh/Leetcode_sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -624,4 +628,8 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2716-prime-subtraction-operation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
