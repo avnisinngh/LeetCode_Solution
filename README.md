@@ -422,6 +422,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [2716-prime-subtraction-operation](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/avnisinngh/Leetcode_sol/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/avnisinngh/Leetcode_sol/tree/master/2846-robot-collisions) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/avnisinngh/LeetCode_Solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -620,6 +621,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0567-permutation-in-string) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/avnisinngh/LeetCode_Solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String Matching
 |  |
 | ------- |
