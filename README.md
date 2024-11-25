@@ -397,6 +397,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0037-sudoku-solver](https://github.com/avnisinngh/Leetcode_sol/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0051-n-queens) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0787-sliding-puzzle](https://github.com/avnisinngh/LeetCode_Solution/tree/master/0787-sliding-puzzle) |
 | [0890-lemonade-change](https://github.com/avnisinngh/Leetcode_sol/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0948-sort-an-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -441,6 +442,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/avnisinngh/LeetCode_Solution/tree/master/0787-sliding-puzzle) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/avnisinngh/Leetcode_sol/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -465,6 +467,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/avnisinngh/Leetcode_sol/tree/master/0037-sudoku-solver) |
+| [0787-sliding-puzzle](https://github.com/avnisinngh/LeetCode_Solution/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/avnisinngh/Leetcode_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/avnisinngh/Leetcode_sol/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
