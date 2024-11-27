@@ -371,6 +371,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/avnisinngh/Leetcode_sol/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/avnisinngh/Leetcode_sol/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/avnisinngh/Leetcode_sol/tree/master/2472-build-a-matrix-with-conditions) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/avnisinngh/LeetCode_Solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Sorting
 |  |
 | ------- |
@@ -427,6 +428,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [2716-prime-subtraction-operation](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/avnisinngh/Leetcode_sol/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/avnisinngh/Leetcode_sol/tree/master/2846-robot-collisions) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/avnisinngh/LeetCode_Solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/avnisinngh/LeetCode_Solution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
 |  |
@@ -444,6 +446,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | ------- |
 | [0787-sliding-puzzle](https://github.com/avnisinngh/LeetCode_Solution/tree/master/0787-sliding-puzzle) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/avnisinngh/Leetcode_sol/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/avnisinngh/LeetCode_Solution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |
