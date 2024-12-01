@@ -379,6 +379,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0726-number-of-atoms](https://github.com/avnisinngh/Leetcode_sol/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/avnisinngh/Leetcode_sol/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2379-maximum-total-importance-of-roads](https://github.com/avnisinngh/Leetcode_sol/tree/master/2379-maximum-total-importance-of-roads) |
@@ -404,6 +405,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/avnisinngh/Leetcode_sol/tree/master/1293-three-consecutive-odds) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/avnisinngh/Leetcode_sol/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/avnisinngh/Leetcode_sol/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -462,6 +464,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0726-number-of-atoms](https://github.com/avnisinngh/Leetcode_sol/tree/master/0726-number-of-atoms) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/avnisinngh/Leetcode_sol/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/avnisinngh/Leetcode_sol/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/avnisinngh/Leetcode_sol/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -488,6 +491,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0141-linked-list-cycle](https://github.com/avnisinngh/Leetcode_sol/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0567-permutation-in-string) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/avnisinngh/Leetcode_sol/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1972-rotating-the-box) |
@@ -498,6 +502,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avnisinngh/Leetcode_sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2179-most-beautiful-item-for-each-query) |
