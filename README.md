@@ -422,6 +422,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [2089-maximum-matrix-sum](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2232-adding-spaces-to-a-string](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2472-build-a-matrix-with-conditions](https://github.com/avnisinngh/Leetcode_sol/tree/master/2472-build-a-matrix-with-conditions) |
 | [2554-minimum-total-distance-traveled](https://github.com/avnisinngh/Leetcode_sol/tree/master/2554-minimum-total-distance-traveled) |
@@ -496,6 +497,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1923-sentence-similarity-iii](https://github.com/avnisinngh/Leetcode_sol/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/avnisinngh/Leetcode_sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/avnisinngh/Leetcode_sol/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
@@ -530,6 +532,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnisinngh/Leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avnisinngh/Leetcode_sol/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/avnisinngh/Leetcode_sol/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2232-adding-spaces-to-a-string](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/avnisinngh/Leetcode_sol/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/avnisinngh/Leetcode_sol/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/avnisinngh/Leetcode_sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -559,6 +562,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/avnisinngh/Leetcode_sol/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/avnisinngh/Leetcode_sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/avnisinngh/Leetcode_sol/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2232-adding-spaces-to-a-string](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/avnisinngh/Leetcode_sol/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/avnisinngh/Leetcode_sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/avnisinngh/Leetcode_sol/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
