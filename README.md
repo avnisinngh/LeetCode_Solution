@@ -499,6 +499,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/avnisinngh/Leetcode_sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/avnisinngh/LeetCode_Solution/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/avnisinngh/Leetcode_sol/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -565,6 +566,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [2232-adding-spaces-to-a-string](https://github.com/avnisinngh/LeetCode_Solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/avnisinngh/Leetcode_sol/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/avnisinngh/Leetcode_sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/avnisinngh/LeetCode_Solution/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/avnisinngh/Leetcode_sol/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/avnisinngh/Leetcode_sol/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/avnisinngh/Leetcode_sol/tree/master/3451-string-compression-iii) |
