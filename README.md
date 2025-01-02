@@ -491,6 +491,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/avnisinngh/LeetCode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/avnisinngh/Leetcode_sol/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/avnisinngh/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/avnisinngh/Leetcode_sol/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -524,6 +525,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0141-linked-list-cycle](https://github.com/avnisinngh/Leetcode_sol/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/avnisinngh/Leetcode_sol/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/avnisinngh/Leetcode_sol/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/avnisinngh/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/avnisinngh/Leetcode_sol/tree/master/0328-odd-even-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/avnisinngh/Leetcode_sol/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/avnisinngh/Leetcode_sol/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -587,6 +589,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 | [0060-permutation-sequence](https://github.com/avnisinngh/Leetcode_sol/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/avnisinngh/Leetcode_sol/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/avnisinngh/Leetcode_sol/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/avnisinngh/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnisinngh/Leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -595,6 +598,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/avnisinngh/LeetCode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/avnisinngh/Leetcode_sol/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/avnisinngh/Leetcode_sol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/avnisinngh/LeetCode_Solution/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
