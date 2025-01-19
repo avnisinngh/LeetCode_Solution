@@ -397,6 +397,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/avnisinngh/Leetcode_sol/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/avnisinngh/LeetCode_Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0051-n-queens) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avnisinngh/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0787-sliding-puzzle](https://github.com/avnisinngh/LeetCode_Solution/tree/master/0787-sliding-puzzle) |
@@ -437,6 +438,7 @@ https://docs.google.com/document/d/1SBWpoKShcP1Ul7EQGTjuShcL21m6xr-_7pBsBvTYPUc/
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/avnisinngh/Leetcode_sol/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/avnisinngh/LeetCode_Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/avnisinngh/Leetcode_sol/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/avnisinngh/Leetcode_sol/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
